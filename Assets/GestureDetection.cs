@@ -42,7 +42,7 @@ namespace Oculus.Interaction.Samples
             if(isThumbup){
                 cube1.transform.position = new Vector3(0.0f, 0.0f, 0.4f);
                 cube2.transform.position = new Vector3(0.0f, 0.3f, 0.4f);
-                cube3.transform.position = new Vector3(0.0f, 0.6f, 0.4f);
+                cube3.transform.position = new Vector3(0.0f, -0.3f, 0.4f);
             }
             //if(isThumbup) Sizeup();
             //if(isThumbdown) Sizedown();
